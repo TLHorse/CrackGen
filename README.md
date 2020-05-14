@@ -1,5 +1,8 @@
 ![CrackGen Icon](https://raw.githubusercontent.com/TLHorse/CrackGen/master/img/CrackGenIcon.png)
 # CrackGen
+![MIT](https://img.shields.io/github/license/TLHorse/CrackGen) [![HitCount](http://hits.dwyl.com/TLHorse/CrackGen.svg)](http://hits.dwyl.com/TLHorse/CrackGen) ![Free](https://forthebadge.com/images/featured/featured-gluten-free.svg) ![Built with love](https://forthebadge.com/images/featured/featured-built-with-love.svg)
+
+
 A macOS CrackMe generator.
 
 | Name | Desription |
